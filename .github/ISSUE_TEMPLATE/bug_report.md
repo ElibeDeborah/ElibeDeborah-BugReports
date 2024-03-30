@@ -7,31 +7,30 @@ assignees: ''
 
 ---
 
-The bug makes my program loop 3 times more than it should
+**Describe the bug**
+The bug is an error screen that pops up randomly when i try to run code on visual studio
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to 'the for loop created and initialized in main'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Run a piece of code on Microsoft visual studio
+2. do not close the display of the output
+3. Change a few things in the code and rerun it
+4. The error is shown as you tried to run the code
 
 **Expected behavior**
-The program is meant to loop 4 times
+I expected the code to run regardless but instead an error is thrown even after the previous output is closed
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: Windows 11
- - microsoft visual studio
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - Device: [HP elitebook]
+ - OS: [Windows 11]
+ - Version [ 22]
 
 **Additional context**
 Add any other context about the problem here.
